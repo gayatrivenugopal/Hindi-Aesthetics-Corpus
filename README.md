@@ -15,6 +15,6 @@ Majority of the work is associated with authors whose native state is Uttar Prad
 Another observation made in the metadata was that only 4.84% of the publications are authored by females. This number was 0 in the pre-independence era for this corpus. However, the number increased as the years passed, although it is incomparable with that of the male authors.
 
 
-Please cite this work as under:
+To cite this work:
 Venugopal, G., Saini, J. R., & P., Dhanya (2020). Novel Language Resources for Hindi: An Aesthetics Text Corpus and a Comprehensive Stop Lemma List. International Journal of Advanced Computer Science and Applications, 11(1).
 

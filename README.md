@@ -5,6 +5,15 @@ We scraped novels and stories from http://hindisamay.com, an e-library maintaine
 As a preprocessing step, we split the text into sentences, tokenized the sentences and deleted special characters, English tokens and Latin numbers.
 
 Metadata:
+Unique word count: 145508
+Unique lemma count: 118266
+978 articles including novels, short stories and non-fictional texts were collated from the sources mentioned earlier. Out of these 978 articles, the metadata of 164 articles could not be found.
+Majority of the work is associated with authors whose native state is Uttar Pradesh, a state in northern India.
+
+![State-wise distribution of authors](https://github.com/gayatrivenugopal/Hindi-Aesthetics-Corpus/images/states.png)
+
+Another observation made in the metadata was that only 4.84% of the publications are authored by females. This number was 0 in the pre-independence era for this corpus. However, the number increased as the years passed, although it is incomparable with that of the male authors.
+
 
 Please cite this work as under:
 Venugopal, G., Saini, J. R., & P., Dhanya (2020). Novel Language Resources for Hindi: An Aesthetics Text Corpus and a Comprehensive Stop Lemma List. International Journal of Advanced Computer Science and Applications, 11(1).

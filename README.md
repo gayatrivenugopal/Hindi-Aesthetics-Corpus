@@ -20,5 +20,5 @@ Another observation made in the metadata was that only 4.84% of the publications
 
 
 To cite this work:
-Venugopal, G., Saini, J. R., & P., Dhanya (2020). Novel Language Resources for Hindi: An Aesthetics Text Corpus and a Comprehensive Stop Lemma List. International Journal of Advanced Computer Science and Applications, 11(1).
+Wairagade-Venugopal, G., Saini, J. R., & P., Dhanya (2020). Novel Language Resources for Hindi: An Aesthetics Text Corpus and a Comprehensive Stop Lemma List. International Journal of Advanced Computer Science and Applications, 11(1).
 

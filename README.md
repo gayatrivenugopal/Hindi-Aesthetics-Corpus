@@ -5,10 +5,14 @@ We scraped novels and stories from http://hindisamay.com, an e-library maintaine
 As a preprocessing step, we split the text into sentences and deleted special characters, English tokens and Latin numbers.
 
 Metadata:
+
 Unique word count: 145508
+
 Unique lemma count: 118266
+
 978 articles including novels, short stories and non-fictional texts were collated from the sources mentioned above. Out of these 978 articles, the metadata of 164 articles could not be found.
 Majority of the work is associated with authors whose native state is Uttar Pradesh, a state in northern India.
+
 
 ![State-wise distribution of authors](https://github.com/gayatrivenugopal/Hindi-Aesthetics-Corpus/blob/master/distribution.png)
 
